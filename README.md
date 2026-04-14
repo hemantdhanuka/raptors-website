@@ -1,4 +1,4 @@
-# 🦅 Raptors Cricket
+# Raptors Cricket
 
 Official website for the **Raptors** cricket team. Displays team stats, match history, player profiles and leaderboards — auto-synced from [CricHeroes](https://cricheroes.in) every 6 hours via GitHub Actions.
 
@@ -9,8 +9,8 @@ Official website for the **Raptors** cricket team. Displays team stats, match hi
 | Layer | Tech |
 |-------|------|
 | Frontend | Next.js 14 (App Router) + TypeScript + Tailwind CSS |
-| Data | `public/data.json` — scraped from CricHeroes |
-| Scraper | Python · [`cricheroes`](https://github.com/pupattan/cricheroes) library |
+| Data | `public/data.json` — scraped from CricHeroes internal API |
+| Scraper | Python · `cloudscraper` (no browser/Selenium needed) |
 | Hosting | Vercel (auto-deploys on every push) |
 | CI | GitHub Actions — scrape + commit every 6 hours |
 
@@ -27,7 +27,7 @@ npm run dev        # http://localhost:3000
 
 ### 2. Scraper
 
-> Requires **Python 3.x** and **Google Chrome** installed.
+> Requires **Python 3.9+** only. No Chrome or browser needed.
 
 ```bash
 cd scraper
@@ -42,25 +42,12 @@ Restart the dev server after scraping to see updated data.
 
 ## Deploying to Vercel
 
-### Step 1 — Push to GitHub
-
-```bash
-git init
-git add .
-git commit -m "feat: initial Raptors website"
-# Create repo on github.com then:
-git remote add origin https://github.com/YOUR_USERNAME/raptors.git
-git push -u origin main
-```
-
-### Step 2 — Connect Vercel
-
-1. Go to [vercel.com/new](https://vercel.com/new)
-2. Import the GitHub repo
-3. Framework: **Next.js** (auto-detected)
+1. Push repo to GitHub
+2. Go to [vercel.com/new](https://vercel.com/new) → Import the GitHub repo
+3. Framework: **Next.js** (auto-detected), no env vars needed
 4. Click **Deploy**
 
-Vercel will redeploy automatically on every push to `main`.
+Vercel redeploys automatically on every push to `main`.
 
 ---
 
@@ -68,10 +55,10 @@ Vercel will redeploy automatically on every push to `main`.
 
 `.github/workflows/refresh-data.yml` runs **every 6 hours**:
 
-1. Spins up Ubuntu with Python + Chromium
-2. Runs `scraper/scrape.py` → updates `public/data.json`
-3. Commits the file if data changed (`[skip ci]` prevents infinite loops)
-4. Vercel detects new commit → redeploys
+1. Spins up Ubuntu with Python
+2. Runs `scraper/scrape.py` → fetches latest data from CricHeroes API → updates `public/data.json`
+3. Commits the file if data changed (`[skip ci]` tag prevents infinite loops)
+4. Vercel detects the new commit → redeploys automatically
 
 **Manual trigger:** Repo → Actions → Refresh Cricket Data → Run workflow
 
@@ -80,16 +67,16 @@ Vercel will redeploy automatically on every push to `main`.
 ## Project Structure
 
 ```
-raptors/
+raptors-website/
 ├── scraper/
-│   ├── scrape.py              # CricHeroes scraper
-│   └── requirements.txt
+│   ├── scrape.py              # CricHeroes API scraper
+│   └── requirements.txt       # cloudscraper, requests
 ├── src/
 │   ├── app/
 │   │   ├── page.tsx           # Home
 │   │   ├── matches/page.tsx   # All matches + filters
-│   │   ├── players/page.tsx   # Squad grid
-│   │   └── leaderboard/page.tsx
+│   │   ├── players/page.tsx   # Squad grouped by role
+│   │   └── leaderboard/page.tsx  # Batting / Bowling / Fielding tabs
 │   ├── components/
 │   └── lib/
 ├── public/
