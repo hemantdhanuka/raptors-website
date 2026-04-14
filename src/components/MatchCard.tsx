@@ -1,6 +1,6 @@
 import { Match } from "@/lib/types";
 import { formatDate, getMatchResult } from "@/lib/data";
-import { MapPin, Calendar, ExternalLink } from "lucide-react";
+import { MapPin, Calendar } from "lucide-react";
 import clsx from "clsx";
 
 const outcomeConfig = {
@@ -76,16 +76,6 @@ export function MatchCard({ match }: { match: Match }) {
               </span>
             )}
           </div>
-          {match.url && (
-            <a
-              href={match.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center gap-1 text-emerald-500 hover:text-emerald-400 font-medium shrink-0 transition-colors"
-            >
-              Scorecard <ExternalLink size={10} />
-            </a>
-          )}
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import { getTeamData, getRelativeTime } from "@/lib/data";
 
 export function Footer() {
-  const { last_updated, team_id } = getTeamData();
+  const { last_updated } = getTeamData();
 
   return (
     <footer className="mt-24 border-t border-slate-200 dark:border-white/[0.06] py-8">
@@ -11,14 +11,6 @@ export function Footer() {
           <span className="w-1.5 h-1.5 rounded-full bg-emerald-500" />
           Updated {getRelativeTime(last_updated)} · refreshes every 6h
         </span>
-        <a
-          href={`https://cricheroes.in/team-profile/${team_id}/Raptors`}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-emerald-500 hover:text-emerald-400 transition-colors"
-        >
-          View on CricHeroes ↗
-        </a>
       </div>
     </footer>
   );

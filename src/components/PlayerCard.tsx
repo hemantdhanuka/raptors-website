@@ -1,5 +1,5 @@
 import { Player } from "@/lib/types";
-import { User, ExternalLink } from "lucide-react";
+import { User } from "lucide-react";
 import Image from "next/image";
 
 export function PlayerCard({ player }: { player: Player }) {
@@ -36,14 +36,6 @@ export function PlayerCard({ player }: { player: Player }) {
         )}
       </div>
 
-      <a
-        href={player.profile_url}
-        target="_blank"
-        rel="noopener noreferrer"
-        className="text-xs flex items-center gap-1 text-emerald-500 hover:text-emerald-400 font-medium transition-colors"
-      >
-        CricHeroes <ExternalLink size={10} />
-      </a>
     </div>
   );
 }
