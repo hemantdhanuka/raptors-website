@@ -1,0 +1,2794 @@
+{
+  "team_name": "RAPTORS",
+  "team_id": "5686590",
+  "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
+  "city": "Bengaluru (Bangalore)",
+  "last_updated": "2026-04-14T22:46:21Z",
+  "record": {
+    "matches": 100,
+    "won": 63,
+    "lost": 34,
+    "draw": 0,
+    "nr": 2,
+    "win_pct": 64.9
+  },
+  "form": [
+    "W",
+    "W",
+    "L",
+    "W",
+    "W"
+  ],
+  "players": [
+    {
+      "player_id": 4758957,
+      "name": "Sada",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/4758957/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
+      "is_captain": true,
+      "is_verified": true
+    },
+    {
+      "player_id": 4103050,
+      "name": "Ajith",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/4103050/stats",
+      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 253148,
+      "name": "Aman Bhatia",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/253148/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 2208414,
+      "name": "Anupam Anand",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/2208414/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1694892620504_87xa0udBZKxt.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 3553271,
+      "name": "Anupam Mishra",
+      "sub_title": "Bowler",
+      "profile_url": "https://cricheroes.in/player-profile/3553271/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 4947912,
+      "name": "Anurag Choudhary",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/4947912/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1746525709294_WMr19Xta3gYX.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 9519302,
+      "name": "Badal Pathak",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/9519302/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1736745932224_LSiQ94nEH3tD.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 1363075,
+      "name": "Gaurav Kumar",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/1363075/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 19389187,
+      "name": "Goutam Singh",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/19389187/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 4963270,
+      "name": "Harsh Choudhary",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/4963270/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 14781101,
+      "name": "Hemant Dhanuka",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/14781101/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 14330086,
+      "name": "Kaarthik SR",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/14330086/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 20270824,
+      "name": "Kiran G M",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/20270824/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1739117962400_8vrGLUpSXkuM.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 17335011,
+      "name": "Kumar Saurabh",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/17335011/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 42352238,
+      "name": "Mayank Kumar",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/42352238/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 21350062,
+      "name": "Nitin Agarwal",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/21350062/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 33279540,
+      "name": "Pankaj sharma",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/33279540/stats",
+      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 15670314,
+      "name": "Parth Shah",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/15670314/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 9907630,
+      "name": "Piyush Singh",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/9907630/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1771900294541_sHIPIqTkiJEW.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 2210657,
+      "name": "Prajwal Simha",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/2210657/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1610637074904_RnGw5MzJwNcl.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 5941610,
+      "name": "Praneeth Reddy",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/5941610/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1670129054342_W7hdPCokJ1i7.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 2654061,
+      "name": "Praveen Kumar",
+      "sub_title": "Bowler",
+      "profile_url": "https://cricheroes.in/player-profile/2654061/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 2150118,
+      "name": "Praveen Sheela Prakashan",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/2150118/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1680312796856_6EXJzfExR2He.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 15083128,
+      "name": "Romi Sharma",
+      "sub_title": "Bowler",
+      "profile_url": "https://cricheroes.in/player-profile/15083128/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 32930683,
+      "name": "Saahil Cricket",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/32930683/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1764328938659_KjeNzav20F91.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 20270820,
+      "name": "Sai",
+      "sub_title": "Bowler",
+      "profile_url": "https://cricheroes.in/player-profile/20270820/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 3760730,
+      "name": "Saurabh(SKP)",
+      "sub_title": "BAT,WK",
+      "profile_url": "https://cricheroes.in/player-profile/3760730/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 23228344,
+      "name": "Subrahmanya shetty",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/23228344/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 1639304,
+      "name": "Suhail Tc",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/1639304/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 1365831,
+      "name": "Sunny",
+      "sub_title": "Bowler",
+      "profile_url": "https://cricheroes.in/player-profile/1365831/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1750423412771_ajTMNYu9wRoG.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 3276871,
+      "name": "Venky",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/3276871/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1726993133428_K9OsaMb8g1hI.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 9465834,
+      "name": "Vijay Jaat",
+      "sub_title": "Batsman",
+      "profile_url": "https://cricheroes.in/player-profile/9465834/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
+      "is_captain": false,
+      "is_verified": true
+    }
+  ],
+  "matches": [
+    {
+      "match_id": 23765187,
+      "tournament": "South East Bengaluru Challengers Cup-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Go-Getters",
+      "opponent": "Go-Getters",
+      "score": "Go-Getters 89/10 vs RAPTORS 90/7",
+      "result": "RAPTORS won by 3 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/23765187/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2026-04-11",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 23396581,
+      "tournament": "South East Bengaluru Challengers Cup-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "Strikers Cricket Club 140/10 vs RAPTORS 141/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/23396581/scorecard",
+      "venue": "CricWind Sports Arena",
+      "match_date": "2026-03-28",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 23054682,
+      "tournament": "South East Bengaluru Challengers Cup-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs WoodWinds Warriors",
+      "opponent": "WoodWinds Warriors",
+      "score": "RAPTORS 165/9 vs WoodWinds Warriors 169/3",
+      "result": "WoodWinds Warriors won by 7 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/23054682/scorecard",
+      "venue": "GSS Sports Arena Cricket Ground. - 1",
+      "match_date": "2026-03-14",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22889261,
+      "tournament": "South East Bengaluru Challengers Cup-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs SUPER KINGS",
+      "opponent": "SUPER KINGS",
+      "score": "RAPTORS 172/9 vs SUPER KINGS 163/8",
+      "result": "RAPTORS won by 8 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/22889261/scorecard",
+      "venue": "CFL Cricket Ground",
+      "match_date": "2026-03-07",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22721801,
+      "tournament": "South East Bengaluru Championship-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Assetz Panthers",
+      "opponent": "Assetz Panthers",
+      "score": "Assetz Panthers 154/8 vs RAPTORS 156/7",
+      "result": "RAPTORS won by 3 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/22721801/scorecard",
+      "venue": "MCC GROUND Marsur",
+      "match_date": "2026-02-28",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22566870,
+      "tournament": "South East Bengaluru Championship-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 117/7 vs RAPTORS 113/10",
+      "result": "Challengers won by 4 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/22566870/scorecard",
+      "venue": "Cricket Socials Bangalore",
+      "match_date": "2026-02-21",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22392439,
+      "tournament": "South East Bengaluru Championship-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "Strikers Cricket Club 93/10 vs RAPTORS 98/2",
+      "result": "RAPTORS won by 8 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/22392439/scorecard",
+      "venue": "Invicta Cricket Ground",
+      "match_date": "2026-02-14",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22194031,
+      "tournament": "South East Bengaluru Championship-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Rockstarz XI",
+      "opponent": "Rockstarz XI",
+      "score": "RAPTORS 168/9 vs Rockstarz XI 169/1",
+      "result": "Rockstarz XI won by 9 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/22194031/scorecard",
+      "venue": "Sachin Tendulkar Sports Village",
+      "match_date": "2026-02-07",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 22033697,
+      "tournament": "South East Bengaluru Championship-Spring Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs INVINCIBULLS",
+      "opponent": "INVINCIBULLS",
+      "score": "INVINCIBULLS 172/8 vs RAPTORS 145/9",
+      "result": "INVINCIBULLS won by 27 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/22033697/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2026-01-31",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 21821361,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "Final",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "RAPTORS 163/5 vs Tropicale United Club 103/10",
+      "result": "RAPTORS won by 60 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/21821361/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2026-01-24",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 21541211,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "Qualifier  2",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 160/7 vs RAPTORS 166/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/21541211/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2026-01-17",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 21266283,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "Eliminator",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "RAPTORS 149/10 vs Thunderbolts 130/9",
+      "result": "RAPTORS won by 19 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/21266283/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2026-01-10",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20876438,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "League Matches",
+      "info": "Raptors vs Windmills Of Your Mind",
+      "opponent": "Windmills Of Your Mind",
+      "score": "Abandoned (abandoned fog)",
+      "result": "Abandoned (abandoned fog)",
+      "outcome": "D",
+      "url": "https://cricheroes.in/scorecard/20876438/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-12-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20791686,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "League Matches",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "The Weakenders 124/10 vs RAPTORS 128/8",
+      "result": "RAPTORS won by 2 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/20791686/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-12-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20623916,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "League Matches",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "RAPTORS 187/6 vs Tropicale United Club 189/5",
+      "result": "Tropicale United Club won by 5 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/20623916/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-12-13",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20477100,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "League Matches",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "RAPTORS 191/5 vs Challengers 169/8",
+      "result": "RAPTORS won by 22 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/20477100/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-12-06",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20343120,
+      "tournament": "Power-6 T20 Cup Season 1",
+      "round": "League Matches",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "RAPTORS 156/7 vs Thunderbolts 162/7",
+      "result": "Thunderbolts won by 3 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/20343120/scorecard",
+      "venue": "SARA cricket academy",
+      "match_date": "2025-11-29",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20229030,
+      "tournament": "South East Bengaluru Championship-Harry Edition Challengers Cup",
+      "round": "Final",
+      "info": "Raptors vs INVINCIBULLS",
+      "opponent": "INVINCIBULLS",
+      "score": "RAPTORS 135/8 vs INVINCIBULLS 139/8",
+      "result": "INVINCIBULLS won by 2 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/20229030/scorecard",
+      "venue": "Invicta Cricket Ground",
+      "match_date": "2025-11-22",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 20092839,
+      "tournament": "South East Bengaluru Championship-Harry Edition Challengers Cup",
+      "round": "Semi Final",
+      "info": "Raptors vs Wolfpack Warriors Bengaluru",
+      "opponent": "Wolfpack Warriors Bengaluru",
+      "score": "RAPTORS 162/7 vs Wolfpack Warriors Bengaluru 132/10",
+      "result": "RAPTORS won by 30 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/20092839/scorecard",
+      "venue": "Coolulu Cricket Ground - B",
+      "match_date": "2025-11-15",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19944429,
+      "tournament": "South East Bengaluru Championship-Harry Edition Challengers Cup",
+      "round": "Quarter Final",
+      "info": "Raptors vs Go-Getters",
+      "opponent": "Go-Getters",
+      "score": "Go-Getters 89/10 vs RAPTORS 93/5",
+      "result": "RAPTORS won by 5 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/19944429/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-11-08",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19855825,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Windmills Of Your Mind",
+      "opponent": "Windmills Of Your Mind",
+      "score": "RAPTORS 180/8 vs Windmills Of Your Mind 173/10",
+      "result": "RAPTORS won by 7 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/19855825/scorecard",
+      "venue": "GSS Sport Arena",
+      "match_date": "2025-11-01",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19171929,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Flying Daggers",
+      "opponent": "Flying Daggers",
+      "score": "RAPTORS 173/6 vs Flying Daggers 176/5",
+      "result": "Flying Daggers won by 4 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/19171929/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-10-04",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19275021,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Mavericks Cricket Club",
+      "opponent": "Mavericks Cricket Club",
+      "score": "Mavericks Cricket Club 131/7 vs RAPTORS 126/8",
+      "result": "Mavericks Cricket Club won by 5 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/19275021/scorecard",
+      "venue": "Nightwatchman Cricket Ground",
+      "match_date": "2025-09-27",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19171878,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "The Weakenders 145/6 vs RAPTORS 116/10",
+      "result": "The Weakenders won by 29 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/19171878/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-09-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 19071341,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Gloria Blue*Star",
+      "opponent": "Gloria Blue*Star",
+      "score": "Gloria Blue*Star 140/7 vs RAPTORS 131/9",
+      "result": "Gloria Blue*Star won by 9 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/19071341/scorecard",
+      "venue": "Saurav Ganguly Ground",
+      "match_date": "2025-09-13",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18978541,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs INDIA",
+      "opponent": "INDIA",
+      "score": "RAPTORS 167/7 vs INDIA 136/10",
+      "result": "RAPTORS won by 31 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/18978541/scorecard",
+      "venue": "Legends Cricket Ground 1",
+      "match_date": "2025-09-06",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18890328,
+      "tournament": "South East Bengaluru Championship- Harry Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Windmills Of Your Mind",
+      "opponent": "Windmills Of Your Mind",
+      "score": "RAPTORS 153/10 vs Windmills Of Your Mind 95/10",
+      "result": "RAPTORS won by 58 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/18890328/scorecard",
+      "venue": "Power Play 2",
+      "match_date": "2025-08-30",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18601297,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs WoodWinds Warriors",
+      "opponent": "WoodWinds Warriors",
+      "score": "WoodWinds Warriors 92/10 vs RAPTORS 50/10",
+      "result": "WoodWinds Warriors won by 42 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/18601297/scorecard",
+      "venue": "Dugout 2",
+      "match_date": "2025-08-09",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18497075,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Lightning Dynamites",
+      "opponent": "Lightning Dynamites",
+      "score": "Lightning Dynamites 139/5 vs RAPTORS 140/5",
+      "result": "RAPTORS won by 5 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/18497075/scorecard",
+      "venue": "Ultimate Dugout",
+      "match_date": "2025-08-02",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18406757,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "Thunderbolts 100/11 vs RAPTORS 101/1",
+      "result": "RAPTORS won by 9 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/18406757/scorecard",
+      "venue": "SARA Cricket Ground & Academy",
+      "match_date": "2025-07-26",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 18106335,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Third Position",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "RAPTORS 144/10 vs Challengers 141/6",
+      "result": "RAPTORS won by 3 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/18106335/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-07-05",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17981593,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Semi Final",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "RAPTORS 108/10 vs Tropicale United Club 109/7",
+      "result": "Tropicale United Club won by 3 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/17981593/scorecard",
+      "venue": "SARA Cricket Ground & Academy",
+      "match_date": "2025-06-28",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17911663,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Super League",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 142/9 vs RAPTORS 146/8",
+      "result": "RAPTORS won by 2 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/17911663/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-06-21",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17783584,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Super League",
+      "info": "Raptors vs Mavericks Cricket Club",
+      "opponent": "Mavericks Cricket Club",
+      "score": "RAPTORS 135/9 vs Mavericks Cricket Club 121/10",
+      "result": "RAPTORS won by 14 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/17783584/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2025-06-14",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17639932,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Super League",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "RAPTORS 119/10 vs The Weakenders 125/6",
+      "result": "The Weakenders won by 4 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/17639932/scorecard",
+      "venue": "Nightwatchman Cricket Ground",
+      "match_date": "2025-06-07",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17502536,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Super League",
+      "info": "Raptors vs BLEED BLUE WARRIORS",
+      "opponent": "BLEED BLUE WARRIORS",
+      "score": "RAPTORS 204/6 vs BLEED BLUE WARRIORS 138/5",
+      "result": "RAPTORS won by 66 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/17502536/scorecard",
+      "venue": "Legends Cricket Ground 1",
+      "match_date": "2025-05-31",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17375150,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "Super League",
+      "info": "Raptors vs DNRA Dynamites",
+      "opponent": "DNRA Dynamites",
+      "score": "DNRA Dynamites 168/6 vs RAPTORS 170/5",
+      "result": "RAPTORS won by 5 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/17375150/scorecard",
+      "venue": "SARA Cricket Ground & Academy",
+      "match_date": "2025-05-24",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 17044962,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs SCG (Supreme Cricket Gladiators)",
+      "opponent": "SCG (Supreme Cricket Gladiators)",
+      "score": "SCG (Supreme Cricket Gladiators) 138/9 vs RAPTORS 139/5",
+      "result": "RAPTORS won by 5 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/17044962/scorecard",
+      "venue": "Legends Cricket Ground 2",
+      "match_date": "2025-05-10",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16887071,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Assetz Panthers",
+      "opponent": "Assetz Panthers",
+      "score": "RAPTORS 198/6 vs Assetz Panthers 130/10",
+      "result": "RAPTORS won by 68 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/16887071/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-05-03",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16745474,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Windmills Of Your Mind",
+      "opponent": "Windmills Of Your Mind",
+      "score": "Windmills Of Your Mind 126/8 vs RAPTORS 130/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/16745474/scorecard",
+      "venue": "Sunshine Lower",
+      "match_date": "2025-04-26",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16567431,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Salarpuria Greenage",
+      "opponent": "Salarpuria Greenage",
+      "score": "RAPTORS 97/10 vs Salarpuria Greenage 62/10",
+      "result": "RAPTORS won by 35 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/16567431/scorecard",
+      "venue": "GSS Sports Arena Cricket Ground. - 1",
+      "match_date": "2025-04-19",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16400289,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs INVINCIBULLS",
+      "opponent": "INVINCIBULLS",
+      "score": "INVINCIBULLS 171/5 vs RAPTORS 147/10",
+      "result": "INVINCIBULLS won by 24 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/16400289/scorecard",
+      "venue": "SARA Cricket Ground & Academy",
+      "match_date": "2025-04-12",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16250515,
+      "tournament": "South East Bengaluru Championship-Summer Edition 2025",
+      "round": "League Matches",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "RAPTORS 154/7 vs Strikers Cricket Club 123/10",
+      "result": "RAPTORS won by 31 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/16250515/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2025-04-05",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 16135888,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "Thunderbolts 180/8 vs RAPTORS 182/6",
+      "result": "RAPTORS won by 4 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/16135888/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2025-03-29",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 15687982,
+      "tournament": "South East Bangalore Plate Cup- Winter Edition 2024-25",
+      "round": "Final",
+      "info": "Raptors vs DNRA Dynamites",
+      "opponent": "DNRA Dynamites",
+      "score": "RAPTORS 177/7 vs DNRA Dynamites 160/10",
+      "result": "RAPTORS won by 17 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/15687982/scorecard",
+      "venue": "Dugout 2",
+      "match_date": "2025-03-08",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 15546486,
+      "tournament": "South East Bangalore Plate Cup- Winter Edition 2024-25",
+      "round": "Semi Final",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "RAPTORS 165/9 vs The Weakenders 158/10",
+      "result": "RAPTORS won by 7 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/15546486/scorecard",
+      "venue": "MSK Grounds 3 Astro Turf",
+      "match_date": "2025-03-01",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 15401636,
+      "tournament": "South East Bangalore Plate Cup- Winter Edition 2024-25",
+      "round": "Quarter Final",
+      "info": "Raptors vs WSK",
+      "opponent": "WSK",
+      "score": "RAPTORS 174/3 vs WSK 100/10",
+      "result": "RAPTORS won by 74 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/15401636/scorecard",
+      "venue": "Dugout 2",
+      "match_date": "2025-02-22",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 15238652,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Quarter Final",
+      "info": "Raptors vs The G.O.A.T Squad",
+      "opponent": "The G.O.A.T Squad",
+      "score": "RAPTORS 105/10 vs The G.O.A.T Squad 108/8",
+      "result": "The G.O.A.T Squad won by 2 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/15238652/scorecard",
+      "venue": "Coolulu Cricket Ground - B",
+      "match_date": "2025-02-15",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 15128880,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs SEEGEHALLI CRICKET CLUB(SCC)",
+      "opponent": "SEEGEHALLI CRICKET CLUB(SCC)",
+      "score": "RAPTORS 145/8 vs SEEGEHALLI CRICKET CLUB(SCC) 131/9",
+      "result": "RAPTORS won by 14 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/15128880/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2025-02-08",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 14993672,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "The Weakenders 166/10 vs RAPTORS 170/2",
+      "result": "RAPTORS won by 8 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/14993672/scorecard",
+      "venue": "One Dream Ground",
+      "match_date": "2025-02-01",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 14673151,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs SEG Panthers",
+      "opponent": "SEG Panthers",
+      "score": "RAPTORS 173/6 vs SEG Panthers 76/10",
+      "result": "RAPTORS won by 97 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/14673151/scorecard",
+      "venue": "Dugout 2",
+      "match_date": "2025-01-18",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 14457537,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs WSK",
+      "opponent": "WSK",
+      "score": "WSK 156/10 vs RAPTORS 152/10",
+      "result": "WSK won by 4 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/14457537/scorecard",
+      "venue": "Msk 3",
+      "match_date": "2025-01-11",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 14025940,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "RAPTORS 178/8 vs Strikers Cricket Club 125/10",
+      "result": "RAPTORS won by 53 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/14025940/scorecard",
+      "venue": "PN Sports Arena",
+      "match_date": "2024-12-21",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13935185,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs Weekend Warriors",
+      "opponent": "Weekend Warriors",
+      "score": "Weekend Warriors 173/9 vs RAPTORS 122/10",
+      "result": "Weekend Warriors won by 51 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/13935185/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2024-12-14",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13798318,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 123/7 vs RAPTORS 104/10",
+      "result": "Challengers won by 19 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/13798318/scorecard",
+      "venue": "Ultimate Dugout",
+      "match_date": "2024-12-07",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13688867,
+      "tournament": "South East Bangalore Championship-Winter Edition 2024-25",
+      "round": "Super League",
+      "info": "Raptors vs BLEED BLUE XI",
+      "opponent": "BLEED BLUE XI",
+      "score": "RAPTORS 185/5 vs BLEED BLUE XI 73/10",
+      "result": "RAPTORS won by 112 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/13688867/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-11-30",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13477886,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Champion Cricketers Club",
+      "opponent": "Champion Cricketers Club",
+      "score": "Champion Cricketers Club 126/9 vs RAPTORS 130/6",
+      "result": "RAPTORS won by 4 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/13477886/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-11-16",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13384653,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "RAPTORS 121/8 vs The Weakenders 124/3",
+      "result": "The Weakenders won by 7 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/13384653/scorecard",
+      "venue": "Legends Cricket Ground 1",
+      "match_date": "2024-11-09",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 13047892,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 159/10 vs RAPTORS 78/10",
+      "result": "Challengers won by 81 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/13047892/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2024-10-19",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12859024,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs SUPER KINGS",
+      "opponent": "SUPER KINGS",
+      "score": "SUPER KINGS 95/10 vs RAPTORS 97/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12859024/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2024-10-12",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12876523,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Score 11 Ultras",
+      "opponent": "Score 11 Ultras",
+      "score": "RAPTORS 257/9 vs Score 11 Ultras 168/10",
+      "result": "RAPTORS won by 89 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12876523/scorecard",
+      "venue": "velocity cricket ground 2",
+      "match_date": "2024-10-02",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12809240,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Cosmo-XI",
+      "opponent": "Cosmo-XI",
+      "score": "RAPTORS 211/5 vs Cosmo-XI 70/10",
+      "result": "RAPTORS won by 141 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12809240/scorecard",
+      "venue": "Bails Cricket Ground,Bangalore",
+      "match_date": "2024-09-28",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12745130,
+      "tournament": "The Harry Cricket Cup",
+      "round": "Super League",
+      "info": "Raptors vs Windmills Of Your Mind",
+      "opponent": "Windmills Of Your Mind",
+      "score": "Windmills Of Your Mind 143/10 vs RAPTORS 144/6",
+      "result": "RAPTORS won by 4 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12745130/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2024-09-21",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12659740,
+      "tournament": "The Harry Cricket Cup",
+      "round": "Super League",
+      "info": "Raptors vs WoodWinds Warriors",
+      "opponent": "WoodWinds Warriors",
+      "score": "RAPTORS 119/10 vs WoodWinds Warriors 106/10",
+      "result": "RAPTORS won by 13 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12659740/scorecard",
+      "venue": "Legends Cricket Ground 1",
+      "match_date": "2024-09-14",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12588384,
+      "tournament": "The Harry Cricket Cup",
+      "round": "Super League",
+      "info": "Raptors vs Cosmo-XI",
+      "opponent": "Cosmo-XI",
+      "score": "RAPTORS 137/7 vs Cosmo-XI 98/10",
+      "result": "RAPTORS won by 39 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12588384/scorecard",
+      "venue": "BCG 2",
+      "match_date": "2024-09-07",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12520143,
+      "tournament": "The Harry Cricket Cup",
+      "round": "Super League",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 152/6 vs RAPTORS 95/10",
+      "result": "Challengers won by 57 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/12520143/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-08-31",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12444167,
+      "tournament": "The Harry Cricket Cup",
+      "round": "Super League",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "Thunderbolts 145/9 vs RAPTORS 94/10",
+      "result": "Thunderbolts won by 51 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/12444167/scorecard",
+      "venue": "Legends Cricket Ground 1",
+      "match_date": "2024-08-24",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12344253,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Killer Whales",
+      "opponent": "Killer Whales",
+      "score": "RAPTORS 83/10 vs Killer Whales 84/2",
+      "result": "Killer Whales won by 8 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/12344253/scorecard",
+      "venue": "Nuance Sports Ground 4",
+      "match_date": "2024-08-17",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12275725,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "Abandoned (abandoned rain)",
+      "result": "Abandoned (abandoned rain)",
+      "outcome": "D",
+      "url": "https://cricheroes.in/scorecard/12275725/scorecard",
+      "venue": "SHANZ 2",
+      "match_date": "2024-08-10",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12210086,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Habitech - Stallions",
+      "opponent": "Habitech - Stallions",
+      "score": "RAPTORS 154/9 vs Habitech - Stallions 155/6",
+      "result": "Habitech - Stallions won by 4 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/12210086/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-08-03",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12133738,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs The G.O.A.T Squad",
+      "opponent": "The G.O.A.T Squad",
+      "score": "RAPTORS 159/6 vs The G.O.A.T Squad 112/8",
+      "result": "RAPTORS won by 47 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12133738/scorecard",
+      "venue": "Dugout 2",
+      "match_date": "2024-07-27",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 12043674,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "RAPTORS 135/7 vs Strikers Cricket Club 34/10",
+      "result": "RAPTORS won by 101 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/12043674/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2024-07-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11974670,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Sumadhura Strikers",
+      "opponent": "Sumadhura Strikers",
+      "score": "Sumadhura Strikers 109/10 vs RAPTORS 111/3",
+      "result": "RAPTORS won by 7 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11974670/scorecard",
+      "venue": "Coolulu Cricket Ground - B",
+      "match_date": "2024-07-13",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11896914,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs DNRA Dynamites",
+      "opponent": "DNRA Dynamites",
+      "score": "DNRA Dynamites 138/8 vs RAPTORS 129/8",
+      "result": "DNRA Dynamites won by 9 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/11896914/scorecard",
+      "venue": "BCG 2",
+      "match_date": "2024-07-06",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11816326,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "The Weakenders 158/10 vs RAPTORS 162/8",
+      "result": "RAPTORS won by 2 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11816326/scorecard",
+      "venue": "UCG ASTRO TURF Cricket Ground 1",
+      "match_date": "2024-06-29",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11729130,
+      "tournament": "The Harry Cricket Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Fortuna CC",
+      "opponent": "Fortuna CC",
+      "score": "RAPTORS 145/10 vs Fortuna CC 139/8",
+      "result": "RAPTORS won by 6 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11729130/scorecard",
+      "venue": "Power Play 2",
+      "match_date": "2024-06-22",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11635088,
+      "tournament": "The Harry Cricket Cup--Warm up",
+      "round": "Warm up Match",
+      "info": "Raptors vs SOBHA MAYFLOWER",
+      "opponent": "SOBHA MAYFLOWER",
+      "score": "RAPTORS 106/9 vs SOBHA MAYFLOWER 110/4",
+      "result": "SOBHA MAYFLOWER won by 6 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/11635088/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-06-15",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11536287,
+      "tournament": "The Harry Cricket Cup--Warm up",
+      "round": "Warm up Match",
+      "info": "Raptors vs Salarpuria Greenage",
+      "opponent": "Salarpuria Greenage",
+      "score": "RAPTORS 123/7 vs Salarpuria Greenage 98/10",
+      "result": "RAPTORS won by 25 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11536287/scorecard",
+      "venue": "Champion Cricket Ground (CCG 1)",
+      "match_date": "2024-06-08",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11415988,
+      "tournament": "The Harry Cricket Cup--Warm up",
+      "round": "Warm up Match",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "Thunderbolts 142/10 vs RAPTORS 79/9",
+      "result": "Thunderbolts won by 63 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/11415988/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-06-01",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11304294,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs The Weakenders",
+      "opponent": "The Weakenders",
+      "score": "The Weakenders 148/8 vs RAPTORS 149/9",
+      "result": "RAPTORS won by 1 wicket",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11304294/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-05-25",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 11216767,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "Strikers Cricket Club 127/9 vs RAPTORS 129/9",
+      "result": "RAPTORS won by 1 wicket",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/11216767/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2024-05-18",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10874406,
+      "tournament": "Summer Carnival Cup",
+      "round": "Quarter Final",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "RAPTORS 151/6 vs Tropicale United Club 153/8",
+      "result": "Tropicale United Club won by 2 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/10874406/scorecard",
+      "venue": "Legends Cricket Ground",
+      "match_date": "2024-04-27",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10829384,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Cosmo-XI",
+      "opponent": "Cosmo-XI",
+      "score": "Cosmo-XI 142/9 vs RAPTORS 143/3",
+      "result": "RAPTORS won by 7 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/10829384/scorecard",
+      "venue": "Power Play Cricket Ground 1",
+      "match_date": "2024-04-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10705729,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Strikers Cricket Club",
+      "opponent": "Strikers Cricket Club",
+      "score": "RAPTORS 114/8 vs Strikers Cricket Club 76/10",
+      "result": "RAPTORS won by 38 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/10705729/scorecard",
+      "venue": "Nuance Sports Ground 4",
+      "match_date": "2024-04-13",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10601602,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Tropicale United Club",
+      "opponent": "Tropicale United Club",
+      "score": "RAPTORS 159/10 vs Tropicale United Club 161/6",
+      "result": "Tropicale United Club won by 4 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/10601602/scorecard",
+      "venue": "UCG ASTROTURF CRICKET GROUND 2",
+      "match_date": "2024-04-06",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10497010,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Chirping wood Blasters",
+      "opponent": "Chirping wood Blasters",
+      "score": "Chirping wood Blasters 223/5 vs RAPTORS 166/10",
+      "result": "Chirping wood Blasters won by 57 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/10497010/scorecard",
+      "venue": "Powerplay Cricket Ground 2",
+      "match_date": "2024-03-30",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10395723,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Thunderbolts",
+      "opponent": "Thunderbolts",
+      "score": "RAPTORS 176/4 vs Thunderbolts 182/4",
+      "result": "Thunderbolts won by 6 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/10395723/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2024-03-23",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10307142,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs SOBHA MAYFLOWER",
+      "opponent": "SOBHA MAYFLOWER",
+      "score": "SOBHA MAYFLOWER 134/9 vs RAPTORS 137/2",
+      "result": "RAPTORS won by 8 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/10307142/scorecard",
+      "venue": "Nightwatchman Cricket Ground",
+      "match_date": "2024-03-16",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10177382,
+      "tournament": "Summer Carnival Cup",
+      "round": "League Matches",
+      "info": "Raptors vs Legends CC",
+      "opponent": "Legends CC",
+      "score": "RAPTORS 124/10 vs Legends CC 127/5",
+      "result": "Legends CC won by 5 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/10177382/scorecard",
+      "venue": "Coolulu Cricket Ground - B",
+      "match_date": "2024-03-09",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 10066456,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Super Strikers",
+      "opponent": "Super Strikers",
+      "score": "RAPTORS 196/10 vs Super Strikers 105/9",
+      "result": "RAPTORS won by 91 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/10066456/scorecard",
+      "venue": "Gladiators Den Cricket Ground",
+      "match_date": "2024-03-02",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9863994,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Bengaluru Titans",
+      "opponent": "Bengaluru Titans",
+      "score": "RAPTORS 161/7 vs Bengaluru Titans 130/10",
+      "result": "RAPTORS won by 31 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9863994/scorecard",
+      "venue": "Sports Craftsman Cricket Ground",
+      "match_date": "2024-02-24",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9899828,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs BlacK Hawkz",
+      "opponent": "BlacK Hawkz",
+      "score": "RAPTORS 62/2 vs BlacK Hawkz 54/5",
+      "result": "RAPTORS won by 8 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9899828/scorecard",
+      "venue": "KCC Sports Cricket Ground",
+      "match_date": "2024-02-17",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9872076,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs BlacK Hawkz",
+      "opponent": "BlacK Hawkz",
+      "score": "BlacK Hawkz 151/8 vs RAPTORS 154/2",
+      "result": "RAPTORS won by 8 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9872076/scorecard",
+      "venue": "KCC Sports Cricket Ground",
+      "match_date": "2024-02-17",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9527248,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs INDIA",
+      "opponent": "INDIA",
+      "score": "RAPTORS 163/5 vs INDIA 149/4",
+      "result": "RAPTORS won by 14 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9527248/scorecard",
+      "venue": "Power Play Cricket Ground 1",
+      "match_date": "2024-01-26",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9471683,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs INDIA",
+      "opponent": "INDIA",
+      "score": "INDIA 123/9 vs RAPTORS 127/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9471683/scorecard",
+      "venue": "Power Play Cricket Ground 1",
+      "match_date": "2024-01-26",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9251622,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Paradise Champ",
+      "opponent": "Paradise Champ",
+      "score": "Paradise Champ 143/9 vs RAPTORS 148/4",
+      "result": "RAPTORS won by 6 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9251622/scorecard",
+      "venue": "Sports Square Caremelaram",
+      "match_date": "2024-01-20",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9134620,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Action Heros XI",
+      "opponent": "Action Heros XI",
+      "score": "Action Heros XI 149/8 vs RAPTORS 153/8",
+      "result": "RAPTORS won by 2 wickets",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9134620/scorecard",
+      "venue": "Power Play Cricket Ground 1",
+      "match_date": "2024-01-13",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 9017810,
+      "tournament": "NUANCE PRACTICE MATCHES",
+      "round": "League Matches",
+      "info": "Raptors vs Challengers Cricket Club",
+      "opponent": "Challengers Cricket Club",
+      "score": "RAPTORS 103/10 vs Challengers Cricket Club 72/10",
+      "result": "RAPTORS won by 31 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/9017810/scorecard",
+      "venue": "Nuance Sports Ground 2",
+      "match_date": "2024-01-06",
+      "ball_type": "TENNIS"
+    },
+    {
+      "match_id": 8994866,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Action Heros XI",
+      "opponent": "Action Heros XI",
+      "score": "Action Heros XI 113/7 vs RAPTORS 111/10",
+      "result": "Action Heros XI won by 2 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/8994866/scorecard",
+      "venue": "Sports Craftsman Cricket Ground",
+      "match_date": "2023-12-30",
+      "ball_type": "TENNIS"
+    }
+  ],
+  "stats": [
+    {
+      "label": "Matches",
+      "value": "100"
+    },
+    {
+      "label": "Upcoming",
+      "value": "1"
+    },
+    {
+      "label": "Won",
+      "value": "63"
+    },
+    {
+      "label": "Lost",
+      "value": "34"
+    },
+    {
+      "label": "Tie",
+      "value": "0"
+    },
+    {
+      "label": "Drawn",
+      "value": "0"
+    },
+    {
+      "label": "NR",
+      "value": "2"
+    },
+    {
+      "label": "Win",
+      "value": "64.9%"
+    },
+    {
+      "label": "Toss Won",
+      "value": "56"
+    },
+    {
+      "label": "Bat First",
+      "value": "29"
+    },
+    {
+      "label": "Field First",
+      "value": "27"
+    }
+  ],
+  "leaderboard": {
+    "batting": [
+      {
+        "player_id": 253148,
+        "player_name": "Aman Bhatia",
+        "stat": "1693 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
+        "rank": 1,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 14781101,
+        "player_name": "Hemant Dhanuka",
+        "stat": "1442 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
+        "rank": 2,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 4758957,
+        "player_name": "Sada",
+        "stat": "1139 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
+        "rank": 3,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 19389187,
+        "player_name": "Goutam Singh",
+        "stat": "1072 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
+        "rank": 4,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 14330086,
+        "player_name": "Kaarthik SR",
+        "stat": "975 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
+        "rank": 5,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 21350062,
+        "player_name": "Nitin Agarwal",
+        "stat": "843 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+        "rank": 6,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 9465834,
+        "player_name": "Vijay Jaat",
+        "stat": "773 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
+        "rank": 7,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 3760730,
+        "player_name": "Saurabh(SKP)",
+        "stat": "728 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
+        "rank": 8,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 1639304,
+        "player_name": "Suhail Tc",
+        "stat": "653 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
+        "rank": 9,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 23228344,
+        "player_name": "Subrahmanya shetty",
+        "stat": "627 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
+        "rank": 10,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 1363075,
+        "player_name": "Gaurav Kumar",
+        "stat": "545 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "rank": 11,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 3553271,
+        "player_name": "Anupam Mishra",
+        "stat": "377 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
+        "rank": 12,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 15670314,
+        "player_name": "Parth Shah",
+        "stat": "351 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
+        "rank": 13,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 15083128,
+        "player_name": "Romi Sharma",
+        "stat": "253 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
+        "rank": 14,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 17335011,
+        "player_name": "Kumar Saurabh",
+        "stat": "196 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+        "rank": 15,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 4963270,
+        "player_name": "Harsh Choudhary",
+        "stat": "148 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
+        "rank": 16,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 3276871,
+        "player_name": "Venky",
+        "stat": "134 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1726993133428_K9OsaMb8g1hI.jpg",
+        "rank": 17,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 20270820,
+        "player_name": "Sai",
+        "stat": "131 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+        "rank": 18,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 20270824,
+        "player_name": "Kiran G M",
+        "stat": "104 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1739117962400_8vrGLUpSXkuM.jpeg",
+        "rank": 19,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 267978,
+        "player_name": "Chandru",
+        "stat": "55 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771172271803_tlUcvb7sRyQg.jpg",
+        "rank": 20,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 17394412,
+        "player_name": "Shubham Somani",
+        "stat": "55 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1768671824635_7tMofvvRry0G.jpeg",
+        "rank": 21,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 19002674,
+        "player_name": "Nitish",
+        "stat": "53 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1686396547044_NcYD74dGUET3.jpg",
+        "rank": 22,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 1520246,
+        "player_name": "Venkatesh",
+        "stat": "51 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1604758037446_0p9YtbRxO1yS.jpg",
+        "rank": 23,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 2654061,
+        "player_name": "Praveen Kumar",
+        "stat": "50 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
+        "rank": 24,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 19693731,
+        "player_name": "Amarnath Bangaru",
+        "stat": "45 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1773588628578_CbmX4irjfnAD.jpg",
+        "rank": 25,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 15990129,
+        "player_name": "Kd",
+        "stat": "40 runs",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 26,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 2208414,
+        "player_name": "Anupam Anand",
+        "stat": "32 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1694892620504_87xa0udBZKxt.jpg",
+        "rank": 27,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 30649468,
+        "player_name": "Abinash",
+        "stat": "26 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1739389288096_FlOKnKVk9BN4.jpg",
+        "rank": 28,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 4073802,
+        "player_name": "CA Aman Jain",
+        "stat": "24 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769083099674_bcK89xKsLiQR.jpg",
+        "rank": 29,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 10400238,
+        "player_name": "Rohith",
+        "stat": "22 runs",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 30,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 21513578,
+        "player_name": "Sai Krishna  E",
+        "stat": "19 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1745599980128_gk7jXdhoLP3g.jpg",
+        "rank": 31,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 42352238,
+        "player_name": "Mayank Kumar",
+        "stat": "16 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+        "rank": 32,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 29610417,
+        "player_name": "Mulleti Praveen Kumar",
+        "stat": "12 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1713373610851_uxAK4AJBfRKe.jpg",
+        "rank": 33,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 7483248,
+        "player_name": "Mehul Jain",
+        "stat": "11 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723918973555_oOTiyG4vJCa4.jpeg",
+        "rank": 34,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 8117592,
+        "player_name": "Hari Msd",
+        "stat": "10 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775289291227_IMGkF1294e69.jpg",
+        "rank": 35,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 3915016,
+        "player_name": "Sambit Parida",
+        "stat": "9 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749192941642_s8l3pvTIfYZq.jpg",
+        "rank": 36,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 1365831,
+        "player_name": "Sunny",
+        "stat": "9 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1750423412771_ajTMNYu9wRoG.jpeg",
+        "rank": 37,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 131558,
+        "player_name": "Karthikeyan P",
+        "stat": "7 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771125442619_bMEEQRgNxXTA.jpg",
+        "rank": 38,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 5310167,
+        "player_name": "Yajnesh Hegde",
+        "stat": "7 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1759678583269_MDkwGbg5Ob77.jpeg",
+        "rank": 39,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 4947912,
+        "player_name": "Anurag Choudhary",
+        "stat": "5 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746525709294_WMr19Xta3gYX.jpeg",
+        "rank": 40,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 20892935,
+        "player_name": "Jaydeep Jain Cricket",
+        "stat": "4 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1685732826503_dKBXMwUO6oN5.jpeg",
+        "rank": 41,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 5941610,
+        "player_name": "Praneeth Reddy",
+        "stat": "4 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1670129054342_W7hdPCokJ1i7.jpeg",
+        "rank": 42,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 21486313,
+        "player_name": "Piyush Singh",
+        "stat": "3 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771614042861_x2NTZQShsUd1.jpg",
+        "rank": 43,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 2150118,
+        "player_name": "Praveen Sheela Prakashan",
+        "stat": "2 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1680312796856_6EXJzfExR2He.jpeg",
+        "rank": 44,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 9638879,
+        "player_name": "Saket Kashyap",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1667653232317_h8qwYTnSjtdX.jpg",
+        "rank": 45,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 19388206,
+        "player_name": "Jai Kumar",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749397728651_6ZDt5zbnvvif.jpeg",
+        "rank": 46,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 23225483,
+        "player_name": "Bikram",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1768894680827_nlby8GV70aLm.jpg",
+        "rank": 47,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 20089604,
+        "player_name": "Loganath P",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1717067639585_BtuQii7OzCNK.jpg",
+        "rank": 48,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 4103050,
+        "player_name": "Ajith",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 49,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 30778152,
+        "player_name": "Anshul Goyal",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 50,
+        "profile": "BATTING"
+      }
+    ],
+    "bowling": [
+      {
+        "player_id": 4758957,
+        "player_name": "Sada",
+        "stat": "87 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
+        "rank": 1,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 14781101,
+        "player_name": "Hemant Dhanuka",
+        "stat": "86 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
+        "rank": 2,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 15083128,
+        "player_name": "Romi Sharma",
+        "stat": "85 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
+        "rank": 3,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 4963270,
+        "player_name": "Harsh Choudhary",
+        "stat": "68 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
+        "rank": 4,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 19389187,
+        "player_name": "Goutam Singh",
+        "stat": "55 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
+        "rank": 5,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 3553271,
+        "player_name": "Anupam Mishra",
+        "stat": "50 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
+        "rank": 6,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 1639304,
+        "player_name": "Suhail Tc",
+        "stat": "45 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
+        "rank": 7,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 23228344,
+        "player_name": "Subrahmanya shetty",
+        "stat": "41 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
+        "rank": 8,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 20270820,
+        "player_name": "Sai",
+        "stat": "29 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+        "rank": 9,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 21350062,
+        "player_name": "Nitin Agarwal",
+        "stat": "26 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+        "rank": 10,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 17335011,
+        "player_name": "Kumar Saurabh",
+        "stat": "24 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+        "rank": 11,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 2654061,
+        "player_name": "Praveen Kumar",
+        "stat": "15 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
+        "rank": 12,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 19002674,
+        "player_name": "Nitish",
+        "stat": "14 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1686396547044_NcYD74dGUET3.jpg",
+        "rank": 13,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 21486313,
+        "player_name": "Piyush Singh",
+        "stat": "10 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771614042861_x2NTZQShsUd1.jpg",
+        "rank": 14,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 1363075,
+        "player_name": "Gaurav Kumar",
+        "stat": "10 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "rank": 15,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 5941610,
+        "player_name": "Praneeth Reddy",
+        "stat": "9 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1670129054342_W7hdPCokJ1i7.jpeg",
+        "rank": 16,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 15670314,
+        "player_name": "Parth Shah",
+        "stat": "7 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
+        "rank": 17,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 15990129,
+        "player_name": "Kd",
+        "stat": "6 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 18,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 2150118,
+        "player_name": "Praveen Sheela Prakashan",
+        "stat": "6 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1680312796856_6EXJzfExR2He.jpeg",
+        "rank": 19,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 10852189,
+        "player_name": "Nagaraj Kattimani",
+        "stat": "5 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1724684544355_GI6NQxAjavC1.jpg",
+        "rank": 20,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 33279540,
+        "player_name": "Pankaj sharma",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 21,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 4073802,
+        "player_name": "CA Aman Jain",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769083099674_bcK89xKsLiQR.jpg",
+        "rank": 22,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 1520246,
+        "player_name": "Venkatesh",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1604758037446_0p9YtbRxO1yS.jpg",
+        "rank": 23,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 15848340,
+        "player_name": "Satheesh Kumar",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1687670404224_1pmuKCsEzj0s.jpg",
+        "rank": 24,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 23225483,
+        "player_name": "Bikram",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1768894680827_nlby8GV70aLm.jpg",
+        "rank": 25,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 4947912,
+        "player_name": "Anurag Choudhary",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746525709294_WMr19Xta3gYX.jpeg",
+        "rank": 26,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 3760730,
+        "player_name": "Saurabh(SKP)",
+        "stat": "3 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
+        "rank": 27,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 267978,
+        "player_name": "Chandru",
+        "stat": "2 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771172271803_tlUcvb7sRyQg.jpg",
+        "rank": 28,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 9638879,
+        "player_name": "Saket Kashyap",
+        "stat": "2 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1667653232317_h8qwYTnSjtdX.jpg",
+        "rank": 29,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 9907630,
+        "player_name": "Piyush Singh",
+        "stat": "2 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771900294541_sHIPIqTkiJEW.jpg",
+        "rank": 30,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 20270824,
+        "player_name": "Kiran G M",
+        "stat": "2 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1739117962400_8vrGLUpSXkuM.jpeg",
+        "rank": 31,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 21204963,
+        "player_name": "Hemant Saini",
+        "stat": "2 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 32,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 2208414,
+        "player_name": "Anupam Anand",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1694892620504_87xa0udBZKxt.jpg",
+        "rank": 33,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 131558,
+        "player_name": "Karthikeyan P",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771125442619_bMEEQRgNxXTA.jpg",
+        "rank": 34,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 4103050,
+        "player_name": "Ajith",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 35,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 5310167,
+        "player_name": "Yajnesh Hegde",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1759678583269_MDkwGbg5Ob77.jpeg",
+        "rank": 36,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 3059785,
+        "player_name": "Amar Singh",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1690303581894_SkWHYigiZo9T.jpg",
+        "rank": 37,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 19388206,
+        "player_name": "Jai Kumar",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749397728651_6ZDt5zbnvvif.jpeg",
+        "rank": 38,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 42352238,
+        "player_name": "Mayank Kumar",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+        "rank": 39,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 14330086,
+        "player_name": "Kaarthik SR",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
+        "rank": 40,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 20984693,
+        "player_name": "Khera",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 41,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 4146167,
+        "player_name": "Sunny Nayak",
+        "stat": "1 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769254567784_UXGcGm0WXs1h.jpg",
+        "rank": 42,
+        "profile": "BOWLING"
+      }
+    ],
+    "fielding": [
+      {
+        "player_id": 3760730,
+        "player_name": "Saurabh(SKP)",
+        "stat": "167 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
+        "rank": 1,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 253148,
+        "player_name": "Aman Bhatia",
+        "stat": "83 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
+        "rank": 2,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 19389187,
+        "player_name": "Goutam Singh",
+        "stat": "57 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
+        "rank": 3,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 15083128,
+        "player_name": "Romi Sharma",
+        "stat": "45 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
+        "rank": 4,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 4758957,
+        "player_name": "Sada",
+        "stat": "43 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
+        "rank": 5,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 23228344,
+        "player_name": "Subrahmanya shetty",
+        "stat": "36 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
+        "rank": 6,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 14781101,
+        "player_name": "Hemant Dhanuka",
+        "stat": "32 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
+        "rank": 7,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 1639304,
+        "player_name": "Suhail Tc",
+        "stat": "29 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
+        "rank": 8,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 3553271,
+        "player_name": "Anupam Mishra",
+        "stat": "27 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
+        "rank": 9,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 1363075,
+        "player_name": "Gaurav Kumar",
+        "stat": "22 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "rank": 10,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 21350062,
+        "player_name": "Nitin Agarwal",
+        "stat": "20 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+        "rank": 11,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 20270820,
+        "player_name": "Sai",
+        "stat": "14 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+        "rank": 12,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 9465834,
+        "player_name": "Vijay Jaat",
+        "stat": "14 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
+        "rank": 13,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 4963270,
+        "player_name": "Harsh Choudhary",
+        "stat": "14 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
+        "rank": 14,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 14330086,
+        "player_name": "Kaarthik SR",
+        "stat": "12 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
+        "rank": 15,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 15670314,
+        "player_name": "Parth Shah",
+        "stat": "6 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
+        "rank": 16,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 17335011,
+        "player_name": "Kumar Saurabh",
+        "stat": "6 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+        "rank": 17,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 4073802,
+        "player_name": "CA Aman Jain",
+        "stat": "4 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769083099674_bcK89xKsLiQR.jpg",
+        "rank": 18,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 10852189,
+        "player_name": "Nagaraj Kattimani",
+        "stat": "3 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1724684544355_GI6NQxAjavC1.jpg",
+        "rank": 19,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 3276871,
+        "player_name": "Venky",
+        "stat": "3 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1726993133428_K9OsaMb8g1hI.jpg",
+        "rank": 20,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 19002674,
+        "player_name": "Nitish",
+        "stat": "3 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1686396547044_NcYD74dGUET3.jpg",
+        "rank": 21,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 20270824,
+        "player_name": "Kiran G M",
+        "stat": "3 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1739117962400_8vrGLUpSXkuM.jpeg",
+        "rank": 22,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 2654061,
+        "player_name": "Praveen Kumar",
+        "stat": "3 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
+        "rank": 23,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 1520246,
+        "player_name": "Venkatesh",
+        "stat": "2 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1604758037446_0p9YtbRxO1yS.jpg",
+        "rank": 24,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 17394412,
+        "player_name": "Shubham Somani",
+        "stat": "2 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1768671824635_7tMofvvRry0G.jpeg",
+        "rank": 25,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 15990129,
+        "player_name": "Kd",
+        "stat": "2 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 26,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 3059785,
+        "player_name": "Amar Singh",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1690303581894_SkWHYigiZo9T.jpg",
+        "rank": 27,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 267978,
+        "player_name": "Chandru",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771172271803_tlUcvb7sRyQg.jpg",
+        "rank": 28,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 131558,
+        "player_name": "Karthikeyan P",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771125442619_bMEEQRgNxXTA.jpg",
+        "rank": 29,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 31531210,
+        "player_name": "Preetham",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742869060102_PcV3xhpvkz2x.jpg",
+        "rank": 30,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 21513578,
+        "player_name": "Sai Krishna  E",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1745599980128_gk7jXdhoLP3g.jpg",
+        "rank": 31,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 42352238,
+        "player_name": "Mayank Kumar",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+        "rank": 32,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 10400238,
+        "player_name": "Rohith",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 33,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 4947912,
+        "player_name": "Anurag Choudhary",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746525709294_WMr19Xta3gYX.jpeg",
+        "rank": 34,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 2150118,
+        "player_name": "Praveen Sheela Prakashan",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1680312796856_6EXJzfExR2He.jpeg",
+        "rank": 35,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 19388206,
+        "player_name": "Jai Kumar",
+        "stat": "0 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749397728651_6ZDt5zbnvvif.jpeg",
+        "rank": 36,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 4103050,
+        "player_name": "Ajith",
+        "stat": "0 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 37,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 21486313,
+        "player_name": "Piyush Singh",
+        "stat": "0 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1771614042861_x2NTZQShsUd1.jpg",
+        "rank": 38,
+        "profile": "FIELDING"
+      }
+    ]
+  }
+}
