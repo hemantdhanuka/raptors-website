@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-04-18T12:43:01Z",
+  "last_updated": "2026-04-18T18:36:28Z",
   "record": {
     "matches": 100,
     "won": 64,
@@ -2120,18 +2120,18 @@
         "profile": "BATTING"
       },
       {
-        "player_id": 19388206,
-        "player_name": "Jai Kumar",
-        "stat": "1 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749397728651_6ZDt5zbnvvif.jpeg",
-        "rank": 46,
-        "profile": "BATTING"
-      },
-      {
         "player_id": 23225483,
         "player_name": "Bikram",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1768894680827_nlby8GV70aLm.jpg",
+        "rank": 46,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 19388206,
+        "player_name": "Jai Kumar",
+        "stat": "1 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1749397728651_6ZDt5zbnvvif.jpeg",
         "rank": 47,
         "profile": "BATTING"
       },
