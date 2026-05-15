@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-05-15T13:47:11Z",
+  "last_updated": "2026-05-15T19:19:46Z",
   "record": {
     "matches": 103,
     "won": 64,
@@ -27,6 +27,15 @@
       "profile_url": "https://cricheroes.in/player-profile/4758957/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
       "is_captain": true,
+      "is_verified": true
+    },
+    {
+      "player_id": 37454400,
+      "name": "Abhishek Anand",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/37454400/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=37454400",
+      "is_captain": false,
       "is_verified": true
     },
     {
@@ -152,6 +161,15 @@
       "sub_title": "",
       "profile_url": "https://cricheroes.in/player-profile/50916481/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=50916481",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 16097445,
+      "name": "Malkeet",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/16097445/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1728080433302_XfpvL4s0WvPg.jpeg",
       "is_captain": false,
       "is_verified": true
     },
