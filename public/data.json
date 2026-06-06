@@ -3,19 +3,19 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-06T02:27:56Z",
+  "last_updated": "2026-06-06T08:25:56Z",
   "record": {
     "matches": 106,
     "won": 66,
-    "lost": 37,
+    "lost": 38,
     "draw": 0,
     "nr": 2,
-    "win_pct": 64.1
+    "win_pct": 63.5
   },
   "form": [
-    "W",
-    "W",
     "L",
+    "W",
+    "W",
     "L",
     "L"
   ],
@@ -346,6 +346,20 @@
     }
   ],
   "matches": [
+    {
+      "match_id": 25291512,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Challengers",
+      "opponent": "Challengers",
+      "score": "Challengers 181/6 vs RAPTORS 167/9",
+      "result": "Challengers won by 14 runs",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/25291512/scorecard",
+      "venue": "Mak Cricket Ground-2",
+      "match_date": "2026-06-06",
+      "ball_type": "TENNIS"
+    },
     {
       "match_id": 24987028,
       "tournament": "",
@@ -1832,7 +1846,7 @@
     },
     {
       "label": "Lost",
-      "value": "37"
+      "value": "38"
     },
     {
       "label": "Tie",
@@ -1848,7 +1862,7 @@
     },
     {
       "label": "Win",
-      "value": "64.1%"
+      "value": "63.5%"
     },
     {
       "label": "Toss Won",
@@ -1868,7 +1882,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "1790 runs",
+        "stat": "1814 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 1,
         "profile": "BATTING"
@@ -1876,7 +1890,7 @@
       {
         "player_id": 14781101,
         "player_name": "Hemant Dhanuka",
-        "stat": "1546 runs",
+        "stat": "1604 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
         "rank": 2,
         "profile": "BATTING"
@@ -1884,7 +1898,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "1206 runs",
+        "stat": "1222 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 3,
         "profile": "BATTING"
@@ -1892,7 +1906,7 @@
       {
         "player_id": 19389187,
         "player_name": "Goutam Singh",
-        "stat": "1158 runs",
+        "stat": "1161 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
         "rank": 4,
         "profile": "BATTING"
@@ -1932,7 +1946,7 @@
       {
         "player_id": 23228344,
         "player_name": "Subrahmanya shetty",
-        "stat": "719 runs",
+        "stat": "725 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
         "rank": 9,
         "profile": "BATTING"
@@ -1972,7 +1986,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "295 runs",
+        "stat": "324 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 14,
         "profile": "BATTING"
@@ -1980,9 +1994,17 @@
       {
         "player_id": 17335011,
         "player_name": "Kumar Saurabh",
-        "stat": "205 runs",
+        "stat": "211 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
         "rank": 15,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 20270820,
+        "player_name": "Sai",
+        "stat": "151 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+        "rank": 16,
         "profile": "BATTING"
       },
       {
@@ -1990,14 +2012,6 @@
         "player_name": "Harsh Choudhary",
         "stat": "148 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
-        "rank": 16,
-        "profile": "BATTING"
-      },
-      {
-        "player_id": 20270820,
-        "player_name": "Sai",
-        "stat": "141 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
         "rank": 17,
         "profile": "BATTING"
       },
@@ -2018,11 +2032,19 @@
         "profile": "BATTING"
       },
       {
+        "player_id": 2654061,
+        "player_name": "Praveen Kumar",
+        "stat": "58 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
+        "rank": 20,
+        "profile": "BATTING"
+      },
+      {
         "player_id": 267978,
         "player_name": "Chandru",
         "stat": "55 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1771172271803_tlUcvb7sRyQg.jpg",
-        "rank": 20,
+        "rank": 21,
         "profile": "BATTING"
       },
       {
@@ -2030,7 +2052,7 @@
         "player_name": "Shubham Somani",
         "stat": "55 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1768671824635_7tMofvvRry0G.jpeg",
-        "rank": 21,
+        "rank": 22,
         "profile": "BATTING"
       },
       {
@@ -2038,14 +2060,6 @@
         "player_name": "Nitish",
         "stat": "53 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1686396547044_NcYD74dGUET3.jpg",
-        "rank": 22,
-        "profile": "BATTING"
-      },
-      {
-        "player_id": 2654061,
-        "player_name": "Praveen Kumar",
-        "stat": "52 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
         "rank": 23,
         "profile": "BATTING"
       },
@@ -2234,11 +2248,19 @@
         "profile": "BATTING"
       },
       {
+        "player_id": 48258002,
+        "player_name": "Rahul N",
+        "stat": "2 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
+        "rank": 47,
+        "profile": "BATTING"
+      },
+      {
         "player_id": 9638879,
         "player_name": "Saket Kashyap",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1667653232317_h8qwYTnSjtdX.jpg",
-        "rank": 47,
+        "rank": 48,
         "profile": "BATTING"
       },
       {
@@ -2246,7 +2268,7 @@
         "player_name": "Bikram",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1768894680827_nlby8GV70aLm.jpg",
-        "rank": 48,
+        "rank": 49,
         "profile": "BATTING"
       },
       {
@@ -2254,7 +2276,7 @@
         "player_name": "Jai Kumar",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1779688741517_eVUZF816aFyX.jpeg",
-        "rank": 49,
+        "rank": 50,
         "profile": "BATTING"
       },
       {
@@ -2262,7 +2284,7 @@
         "player_name": "Loganath P",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1717067639585_BtuQii7OzCNK.jpg",
-        "rank": 50,
+        "rank": 51,
         "profile": "BATTING"
       },
       {
@@ -2270,7 +2292,7 @@
         "player_name": "Ajith",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
-        "rank": 51,
+        "rank": 52,
         "profile": "BATTING"
       },
       {
@@ -2278,7 +2300,7 @@
         "player_name": "Lavish Nagar",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=50916481",
-        "rank": 52,
+        "rank": 53,
         "profile": "BATTING"
       },
       {
@@ -2286,7 +2308,7 @@
         "player_name": "Anshul Goyal",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
-        "rank": 53,
+        "rank": 54,
         "profile": "BATTING"
       },
       {
@@ -2294,7 +2316,7 @@
         "player_name": "Saahil Cricket",
         "stat": "1 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1764328938659_KjeNzav20F91.jpeg",
-        "rank": 54,
+        "rank": 55,
         "profile": "BATTING"
       }
     ],
@@ -2302,7 +2324,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "94 wkts",
+        "stat": "95 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 1,
         "profile": "BOWLING"
@@ -2310,7 +2332,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "94 wkts",
+        "stat": "95 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 2,
         "profile": "BOWLING"
@@ -2372,18 +2394,18 @@
         "profile": "BOWLING"
       },
       {
-        "player_id": 21350062,
-        "player_name": "Nitin Agarwal",
-        "stat": "29 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+        "player_id": 17335011,
+        "player_name": "Kumar Saurabh",
+        "stat": "30 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
         "rank": 10,
         "profile": "BOWLING"
       },
       {
-        "player_id": 17335011,
-        "player_name": "Kumar Saurabh",
+        "player_id": 21350062,
+        "player_name": "Nitin Agarwal",
         "stat": "29 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 11,
         "profile": "BOWLING"
       },
@@ -2460,18 +2482,18 @@
         "profile": "BOWLING"
       },
       {
-        "player_id": 33279540,
-        "player_name": "Pankaj sharma",
-        "stat": "3 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "player_id": 48258002,
+        "player_name": "Rahul N",
+        "stat": "5 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
         "rank": 21,
         "profile": "BOWLING"
       },
       {
-        "player_id": 48258002,
-        "player_name": "Rahul N",
+        "player_id": 33279540,
+        "player_name": "Pankaj sharma",
         "stat": "3 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
+        "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
         "rank": 22,
         "profile": "BOWLING"
       },
@@ -2664,7 +2686,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "86 dismissals",
+        "stat": "87 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 2,
         "profile": "FIELDING"
@@ -2680,7 +2702,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "51 dismissals",
+        "stat": "52 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 4,
         "profile": "FIELDING"
@@ -2728,7 +2750,7 @@
       {
         "player_id": 20270820,
         "player_name": "Sai",
-        "stat": "25 dismissals",
+        "stat": "26 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
         "rank": 10,
         "profile": "FIELDING"
@@ -2750,11 +2772,19 @@
         "profile": "FIELDING"
       },
       {
+        "player_id": 9465834,
+        "player_name": "Vijay Jaat",
+        "stat": "16 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
+        "rank": 13,
+        "profile": "FIELDING"
+      },
+      {
         "player_id": 14330086,
         "player_name": "Kaarthik SR",
         "stat": "15 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
-        "rank": 13,
+        "rank": 14,
         "profile": "FIELDING"
       },
       {
@@ -2762,14 +2792,6 @@
         "player_name": "Harsh Choudhary",
         "stat": "14 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
-        "rank": 14,
-        "profile": "FIELDING"
-      },
-      {
-        "player_id": 9465834,
-        "player_name": "Vijay Jaat",
-        "stat": "14 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 15,
         "profile": "FIELDING"
       },
