@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-05T19:43:22Z",
+  "last_updated": "2026-06-06T02:27:56Z",
   "record": {
     "matches": 106,
     "won": 66,
@@ -1824,7 +1824,7 @@
     },
     {
       "label": "Upcoming",
-      "value": "1"
+      "value": "0"
     },
     {
       "label": "Won",
@@ -2758,18 +2758,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 9465834,
-        "player_name": "Vijay Jaat",
-        "stat": "14 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
-        "rank": 14,
-        "profile": "FIELDING"
-      },
-      {
         "player_id": 4963270,
         "player_name": "Harsh Choudhary",
         "stat": "14 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1751729004906_LIuw0HNIxlBy.jpeg",
+        "rank": 14,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 9465834,
+        "player_name": "Vijay Jaat",
+        "stat": "14 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 15,
         "profile": "FIELDING"
       },
