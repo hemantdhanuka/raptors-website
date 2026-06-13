@@ -3,20 +3,20 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-13T02:38:30Z",
+  "last_updated": "2026-06-13T08:48:14Z",
   "record": {
     "matches": 107,
     "won": 66,
-    "lost": 38,
+    "lost": 39,
     "draw": 0,
     "nr": 2,
-    "win_pct": 63.5
+    "win_pct": 62.9
   },
   "form": [
     "L",
-    "W",
-    "W",
     "L",
+    "W",
+    "W",
     "L"
   ],
   "players": [
@@ -346,6 +346,20 @@
     }
   ],
   "matches": [
+    {
+      "match_id": 25461003,
+      "tournament": "",
+      "round": "",
+      "info": "Raptors vs Weekend Warriors",
+      "opponent": "Weekend Warriors",
+      "score": "RAPTORS 111/10 vs Weekend Warriors 112/6",
+      "result": "Weekend Warriors won by 4 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/25461003/scorecard",
+      "venue": "Mak Cricket Ground-1",
+      "match_date": "2026-06-13",
+      "ball_type": "TENNIS"
+    },
     {
       "match_id": 25291512,
       "tournament": "",
@@ -1846,7 +1860,7 @@
     },
     {
       "label": "Lost",
-      "value": "38"
+      "value": "39"
     },
     {
       "label": "Tie",
@@ -1862,7 +1876,7 @@
     },
     {
       "label": "Win",
-      "value": "63.5%"
+      "value": "62.9%"
     },
     {
       "label": "Toss Won",
@@ -1898,7 +1912,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "1222 runs",
+        "stat": "1243 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 3,
         "profile": "BATTING"
@@ -1922,7 +1936,7 @@
       {
         "player_id": 21350062,
         "player_name": "Nitin Agarwal",
-        "stat": "894 runs",
+        "stat": "917 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 6,
         "profile": "BATTING"
@@ -1930,7 +1944,7 @@
       {
         "player_id": 9465834,
         "player_name": "Vijay Jaat",
-        "stat": "807 runs",
+        "stat": "851 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 7,
         "profile": "BATTING"
@@ -1938,7 +1952,7 @@
       {
         "player_id": 3760730,
         "player_name": "Saurabh(SKP)",
-        "stat": "728 runs",
+        "stat": "729 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
         "rank": 8,
         "profile": "BATTING"
@@ -1946,7 +1960,7 @@
       {
         "player_id": 23228344,
         "player_name": "Subrahmanya shetty",
-        "stat": "725 runs",
+        "stat": "726 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
         "rank": 9,
         "profile": "BATTING"
@@ -1954,7 +1968,7 @@
       {
         "player_id": 1639304,
         "player_name": "Suhail Tc",
-        "stat": "653 runs",
+        "stat": "656 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
         "rank": 10,
         "profile": "BATTING"
@@ -1986,7 +2000,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "324 runs",
+        "stat": "325 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 14,
         "profile": "BATTING"
@@ -1994,7 +2008,7 @@
       {
         "player_id": 17335011,
         "player_name": "Kumar Saurabh",
-        "stat": "211 runs",
+        "stat": "215 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
         "rank": 15,
         "profile": "BATTING"
@@ -2002,7 +2016,7 @@
       {
         "player_id": 20270820,
         "player_name": "Sai",
-        "stat": "151 runs",
+        "stat": "155 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
         "rank": 16,
         "profile": "BATTING"
@@ -2034,7 +2048,7 @@
       {
         "player_id": 2654061,
         "player_name": "Praveen Kumar",
-        "stat": "58 runs",
+        "stat": "59 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
         "rank": 20,
         "profile": "BATTING"
@@ -2324,7 +2338,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "95 wkts",
+        "stat": "97 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 1,
         "profile": "BOWLING"
@@ -2372,7 +2386,7 @@
       {
         "player_id": 1639304,
         "player_name": "Suhail Tc",
-        "stat": "46 wkts",
+        "stat": "47 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
         "rank": 7,
         "profile": "BOWLING"
@@ -2396,7 +2410,7 @@
       {
         "player_id": 17335011,
         "player_name": "Kumar Saurabh",
-        "stat": "30 wkts",
+        "stat": "31 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
         "rank": 10,
         "profile": "BOWLING"
@@ -2404,7 +2418,7 @@
       {
         "player_id": 21350062,
         "player_name": "Nitin Agarwal",
-        "stat": "29 wkts",
+        "stat": "30 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 11,
         "profile": "BOWLING"
@@ -2412,7 +2426,7 @@
       {
         "player_id": 2654061,
         "player_name": "Praveen Kumar",
-        "stat": "17 wkts",
+        "stat": "18 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1610109561682_nEaNwahdMHpP.jpg",
         "rank": 12,
         "profile": "BOWLING"
@@ -2702,7 +2716,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "52 dismissals",
+        "stat": "53 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 4,
         "profile": "FIELDING"
@@ -2740,18 +2754,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 3553271,
-        "player_name": "Anupam Mishra",
-        "stat": "28 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
+        "player_id": 20270820,
+        "player_name": "Sai",
+        "stat": "29 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
         "rank": 9,
         "profile": "FIELDING"
       },
       {
-        "player_id": 20270820,
-        "player_name": "Sai",
-        "stat": "26 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
+        "player_id": 3553271,
+        "player_name": "Anupam Mishra",
+        "stat": "28 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
         "rank": 10,
         "profile": "FIELDING"
       },
@@ -2796,18 +2810,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 15670314,
-        "player_name": "Parth Shah",
-        "stat": "6 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
+        "player_id": 17335011,
+        "player_name": "Kumar Saurabh",
+        "stat": "7 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
         "rank": 16,
         "profile": "FIELDING"
       },
       {
-        "player_id": 17335011,
-        "player_name": "Kumar Saurabh",
+        "player_id": 15670314,
+        "player_name": "Parth Shah",
         "stat": "6 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1753502834273_hrEs7RfBMvEk.jpeg",
         "rank": 17,
         "profile": "FIELDING"
       },
