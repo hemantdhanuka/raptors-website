@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-17T02:52:57Z",
+  "last_updated": "2026-06-17T10:28:16Z",
   "record": {
     "matches": 108,
     "won": 66,
@@ -84,6 +84,15 @@
       "is_verified": true
     },
     {
+      "player_id": 4948495,
+      "name": "Ayush Verma",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/4948495/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1771331512298_3SU5hdqbLCEJ.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
       "player_id": 9519302,
       "name": "Badal Pathak",
       "sub_title": "",
@@ -152,6 +161,15 @@
       "sub_title": "All-Rounder",
       "profile_url": "https://cricheroes.in/player-profile/17335011/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 10212530,
+      "name": "Kunal Choithani",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/10212530/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1756187971543_6INHOSakokTS.jpeg",
       "is_captain": false,
       "is_verified": true
     },
@@ -253,6 +271,15 @@
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1680312796856_6EXJzfExR2He.jpeg",
       "is_captain": false,
       "is_verified": true
+    },
+    {
+      "player_id": 46866640,
+      "name": "Rahul",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/46866640/stats",
+      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+      "is_captain": false,
+      "is_verified": false
     },
     {
       "player_id": 48258002,
