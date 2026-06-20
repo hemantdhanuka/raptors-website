@@ -3,21 +3,21 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-20T02:37:39Z",
+  "last_updated": "2026-06-20T08:43:10Z",
   "record": {
     "matches": 108,
-    "won": 66,
+    "won": 67,
     "lost": 39,
     "draw": 0,
     "nr": 2,
-    "win_pct": 62.9
+    "win_pct": 63.2
   },
   "form": [
+    "W",
     "L",
     "L",
     "W",
-    "W",
-    "L"
+    "W"
   ],
   "players": [
     {
@@ -291,20 +291,20 @@
       "is_verified": true
     },
     {
-      "player_id": 46866640,
-      "name": "Rahul",
-      "sub_title": "",
-      "profile_url": "https://cricheroes.in/player-profile/46866640/stats",
-      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
-      "is_captain": false,
-      "is_verified": false
-    },
-    {
       "player_id": 48258002,
       "name": "Rahul N",
       "sub_title": "",
       "profile_url": "https://cricheroes.in/player-profile/48258002/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 46866640,
+      "name": "Rahul Sinha",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/46866640/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=46866640",
       "is_captain": false,
       "is_verified": true
     },
@@ -391,6 +391,20 @@
     }
   ],
   "matches": [
+    {
+      "match_id": 25584900,
+      "tournament": "South East Bengaluru Championship-Monsoon Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs Ballistic Boys",
+      "opponent": "Ballistic Boys",
+      "score": "RAPTORS 214/6 vs Ballistic Boys 133/10",
+      "result": "RAPTORS won by 81 runs",
+      "outcome": "W",
+      "url": "https://cricheroes.in/scorecard/25584900/scorecard",
+      "venue": "BK Bouncer Cricket Ground 2",
+      "match_date": "2026-06-20",
+      "ball_type": "TENNIS"
+    },
     {
       "match_id": 25461003,
       "tournament": "",
@@ -1901,7 +1915,7 @@
     },
     {
       "label": "Won",
-      "value": "66"
+      "value": "67"
     },
     {
       "label": "Lost",
@@ -1921,7 +1935,7 @@
     },
     {
       "label": "Win",
-      "value": "62.9%"
+      "value": "63.2%"
     },
     {
       "label": "Toss Won",
@@ -1941,7 +1955,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "1814 runs",
+        "stat": "1837 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 1,
         "profile": "BATTING"
@@ -1949,7 +1963,7 @@
       {
         "player_id": 14781101,
         "player_name": "Hemant Dhanuka",
-        "stat": "1604 runs",
+        "stat": "1649 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
         "rank": 2,
         "profile": "BATTING"
@@ -1957,7 +1971,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "1243 runs",
+        "stat": "1282 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 3,
         "profile": "BATTING"
@@ -1965,7 +1979,7 @@
       {
         "player_id": 19389187,
         "player_name": "Goutam Singh",
-        "stat": "1161 runs",
+        "stat": "1175 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
         "rank": 4,
         "profile": "BATTING"
@@ -1981,7 +1995,7 @@
       {
         "player_id": 21350062,
         "player_name": "Nitin Agarwal",
-        "stat": "917 runs",
+        "stat": "933 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 6,
         "profile": "BATTING"
@@ -1989,9 +2003,17 @@
       {
         "player_id": 9465834,
         "player_name": "Vijay Jaat",
-        "stat": "851 runs",
+        "stat": "872 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 7,
+        "profile": "BATTING"
+      },
+      {
+        "player_id": 23228344,
+        "player_name": "Subrahmanya shetty",
+        "stat": "748 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
+        "rank": 8,
         "profile": "BATTING"
       },
       {
@@ -1999,21 +2021,13 @@
         "player_name": "Saurabh(SKP)",
         "stat": "729 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1773597923916_1bHxG6oik0na.jpeg",
-        "rank": 8,
-        "profile": "BATTING"
-      },
-      {
-        "player_id": 23228344,
-        "player_name": "Subrahmanya shetty",
-        "stat": "726 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1746288349100_ZTNb9KgWOMu8.jpg",
         "rank": 9,
         "profile": "BATTING"
       },
       {
         "player_id": 1639304,
         "player_name": "Suhail Tc",
-        "stat": "656 runs",
+        "stat": "667 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
         "rank": 10,
         "profile": "BATTING"
@@ -2383,7 +2397,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "97 wkts",
+        "stat": "98 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 1,
         "profile": "BOWLING"
@@ -2391,7 +2405,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "95 wkts",
+        "stat": "98 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 2,
         "profile": "BOWLING"
@@ -2447,9 +2461,17 @@
       {
         "player_id": 20270820,
         "player_name": "Sai",
-        "stat": "31 wkts",
+        "stat": "33 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1753372948743_zuxyLcTZMUpm.jpg",
         "rank": 9,
+        "profile": "BOWLING"
+      },
+      {
+        "player_id": 21350062,
+        "player_name": "Nitin Agarwal",
+        "stat": "32 wkts",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+        "rank": 10,
         "profile": "BOWLING"
       },
       {
@@ -2457,14 +2479,6 @@
         "player_name": "Kumar Saurabh",
         "stat": "31 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744378874188_dMqsgZ1yr8kF.jpeg",
-        "rank": 10,
-        "profile": "BOWLING"
-      },
-      {
-        "player_id": 21350062,
-        "player_name": "Nitin Agarwal",
-        "stat": "30 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 11,
         "profile": "BOWLING"
       },
@@ -2745,7 +2759,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "87 dismissals",
+        "stat": "88 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 2,
         "profile": "FIELDING"
@@ -2761,7 +2775,7 @@
       {
         "player_id": 15083128,
         "player_name": "Romi Sharma",
-        "stat": "53 dismissals",
+        "stat": "58 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1744347746920_QgMeUuBSlBoY.jpg",
         "rank": 4,
         "profile": "FIELDING"
@@ -2785,7 +2799,7 @@
       {
         "player_id": 14781101,
         "player_name": "Hemant Dhanuka",
-        "stat": "36 dismissals",
+        "stat": "37 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
         "rank": 7,
         "profile": "FIELDING"
@@ -2825,7 +2839,7 @@
       {
         "player_id": 21350062,
         "player_name": "Nitin Agarwal",
-        "stat": "20 dismissals",
+        "stat": "21 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
         "rank": 12,
         "profile": "FIELDING"
