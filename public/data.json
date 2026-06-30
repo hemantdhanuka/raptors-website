@@ -3,9 +3,9 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-06-30T14:00:40Z",
+  "last_updated": "2026-06-30T19:44:12Z",
   "record": {
-    "matches": 108,
+    "matches": 109,
     "won": 67,
     "lost": 39,
     "draw": 0,
@@ -1907,11 +1907,11 @@
   "stats": [
     {
       "label": "Matches",
-      "value": "108"
+      "value": "109"
     },
     {
       "label": "Upcoming",
-      "value": "0"
+      "value": "1"
     },
     {
       "label": "Won",
