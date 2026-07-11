@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-07-10T19:17:19Z",
+  "last_updated": "2026-07-11T01:53:49Z",
   "record": {
     "matches": 110,
     "won": 67,
@@ -1925,7 +1925,7 @@
     },
     {
       "label": "Upcoming",
-      "value": "1"
+      "value": "0"
     },
     {
       "label": "Won",
@@ -3035,18 +3035,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 48258002,
-        "player_name": "Rahul N",
-        "stat": "1 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
-        "rank": 35,
-        "profile": "FIELDING"
-      },
-      {
         "player_id": 42352238,
         "player_name": "Mayank Kumar",
         "stat": "1 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+        "rank": 35,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 48258002,
+        "player_name": "Rahul N",
+        "stat": "1 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1779516518946_xRimSdOPq2ds.jpg",
         "rank": 36,
         "profile": "FIELDING"
       },
