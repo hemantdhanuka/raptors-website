@@ -3,9 +3,9 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-07-22T08:11:00Z",
+  "last_updated": "2026-07-22T13:24:33Z",
   "record": {
-    "matches": 111,
+    "matches": 112,
     "won": 68,
     "lost": 41,
     "draw": 0,
@@ -21,11 +21,11 @@
   ],
   "players": [
     {
-      "player_id": 21350062,
-      "name": "Nitin Agarwal",
+      "player_id": 4758957,
+      "name": "Sada",
       "sub_title": "All-Rounder",
-      "profile_url": "https://cricheroes.in/player-profile/21350062/stats",
-      "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+      "profile_url": "https://cricheroes.in/player-profile/4758957/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
       "is_captain": true,
       "is_verified": true
     },
@@ -210,6 +210,15 @@
       "is_verified": true
     },
     {
+      "player_id": 21350062,
+      "name": "Nitin Agarwal",
+      "sub_title": "All-Rounder",
+      "profile_url": "https://cricheroes.in/player-profile/21350062/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1723598978715_FTKalrzz4Lh7.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
       "player_id": 33279540,
       "name": "Pankaj sharma",
       "sub_title": "",
@@ -314,15 +323,6 @@
       "sub_title": "",
       "profile_url": "https://cricheroes.in/player-profile/32930683/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1764328938659_KjeNzav20F91.jpeg",
-      "is_captain": false,
-      "is_verified": true
-    },
-    {
-      "player_id": 4758957,
-      "name": "Sada",
-      "sub_title": "All-Rounder",
-      "profile_url": "https://cricheroes.in/player-profile/4758957/stats",
-      "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
       "is_captain": false,
       "is_verified": true
     },
@@ -1949,11 +1949,11 @@
   "stats": [
     {
       "label": "Matches",
-      "value": "111"
+      "value": "112"
     },
     {
       "label": "Upcoming",
-      "value": "0"
+      "value": "1"
     },
     {
       "label": "Won",
