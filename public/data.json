@@ -3,21 +3,21 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-07-25T01:55:26Z",
+  "last_updated": "2026-07-25T07:52:30Z",
   "record": {
     "matches": 112,
     "won": 68,
-    "lost": 41,
+    "lost": 42,
     "draw": 0,
     "nr": 2,
-    "win_pct": 62.4
+    "win_pct": 61.8
   },
   "form": [
     "L",
-    "W",
     "L",
     "W",
-    "L"
+    "L",
+    "W"
   ],
   "players": [
     {
@@ -391,6 +391,20 @@
     }
   ],
   "matches": [
+    {
+      "match_id": 26258545,
+      "tournament": "South East Bengaluru Championship-Monsoon Edition 2026",
+      "round": "League Matches",
+      "info": "Raptors vs SUPER KINGS",
+      "opponent": "SUPER KINGS",
+      "score": "RAPTORS 144/6 vs SUPER KINGS 148/5",
+      "result": "SUPER KINGS won by 5 wickets",
+      "outcome": "L",
+      "url": "https://cricheroes.in/scorecard/26258545/scorecard",
+      "venue": "Shaanz Cricket Ground",
+      "match_date": "2026-07-25",
+      "ball_type": "TENNIS"
+    },
     {
       "match_id": 26121871,
       "tournament": "South East Bengaluru Championship-Monsoon Edition 2026",
@@ -1961,7 +1975,7 @@
     },
     {
       "label": "Lost",
-      "value": "41"
+      "value": "42"
     },
     {
       "label": "Tie",
@@ -1977,7 +1991,7 @@
     },
     {
       "label": "Win",
-      "value": "62.4%"
+      "value": "61.8%"
     },
     {
       "label": "Toss Won",
@@ -1997,7 +2011,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "1922 runs",
+        "stat": "1935 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 1,
         "profile": "BATTING"
@@ -2005,7 +2019,7 @@
       {
         "player_id": 14781101,
         "player_name": "Hemant Dhanuka",
-        "stat": "1707 runs",
+        "stat": "1738 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
         "rank": 2,
         "profile": "BATTING"
@@ -2013,7 +2027,7 @@
       {
         "player_id": 4758957,
         "player_name": "Sada",
-        "stat": "1314 runs",
+        "stat": "1325 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1702909219093_QnCaiJeNf6oE.jpeg",
         "rank": 3,
         "profile": "BATTING"
@@ -2021,7 +2035,7 @@
       {
         "player_id": 19389187,
         "player_name": "Goutam Singh",
-        "stat": "1247 runs",
+        "stat": "1272 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
         "rank": 4,
         "profile": "BATTING"
@@ -2029,7 +2043,7 @@
       {
         "player_id": 14330086,
         "player_name": "Kaarthik SR",
-        "stat": "1089 runs",
+        "stat": "1126 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
         "rank": 5,
         "profile": "BATTING"
@@ -2045,7 +2059,7 @@
       {
         "player_id": 9465834,
         "player_name": "Vijay Jaat",
-        "stat": "906 runs",
+        "stat": "920 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 7,
         "profile": "BATTING"
@@ -2069,7 +2083,7 @@
       {
         "player_id": 1639304,
         "player_name": "Suhail Tc",
-        "stat": "677 runs",
+        "stat": "684 runs",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
         "rank": 10,
         "profile": "BATTING"
@@ -2219,18 +2233,18 @@
         "profile": "BATTING"
       },
       {
-        "player_id": 4073802,
-        "player_name": "CA Aman Jain",
-        "stat": "24 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769083099674_bcK89xKsLiQR.jpg",
+        "player_id": 42352238,
+        "player_name": "Mayank Kumar",
+        "stat": "25 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
         "rank": 29,
         "profile": "BATTING"
       },
       {
-        "player_id": 42352238,
-        "player_name": "Mayank Kumar",
-        "stat": "23 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=42352238",
+        "player_id": 4073802,
+        "player_name": "CA Aman Jain",
+        "stat": "24 runs",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1769083099674_bcK89xKsLiQR.jpg",
         "rank": 30,
         "profile": "BATTING"
       },
@@ -2455,7 +2469,7 @@
       {
         "player_id": 14781101,
         "player_name": "Hemant Dhanuka",
-        "stat": "96 wkts",
+        "stat": "98 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
         "rank": 3,
         "profile": "BOWLING"
@@ -2471,7 +2485,7 @@
       {
         "player_id": 19389187,
         "player_name": "Goutam Singh",
-        "stat": "66 wkts",
+        "stat": "67 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
         "rank": 5,
         "profile": "BOWLING"
@@ -2487,7 +2501,7 @@
       {
         "player_id": 1639304,
         "player_name": "Suhail Tc",
-        "stat": "47 wkts",
+        "stat": "49 wkts",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1769243020041_HQCkANVTpA4x.jpg",
         "rank": 7,
         "profile": "BOWLING"
@@ -2801,7 +2815,7 @@
       {
         "player_id": 253148,
         "player_name": "Aman Bhatia",
-        "stat": "93 dismissals",
+        "stat": "95 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743251260836_YEUFjQINdP71.jpg",
         "rank": 2,
         "profile": "FIELDING"
@@ -2809,7 +2823,7 @@
       {
         "player_id": 19389187,
         "player_name": "Goutam Singh",
-        "stat": "65 dismissals",
+        "stat": "66 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1687461352276_rPkGxPQEjm6u.jpeg",
         "rank": 3,
         "profile": "FIELDING"
@@ -2865,7 +2879,7 @@
       {
         "player_id": 3553271,
         "player_name": "Anupam Mishra",
-        "stat": "28 dismissals",
+        "stat": "29 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1742875719824_uqsTWBkRICwJ.jpg",
         "rank": 10,
         "profile": "FIELDING"
@@ -2889,7 +2903,7 @@
       {
         "player_id": 9465834,
         "player_name": "Vijay Jaat",
-        "stat": "16 dismissals",
+        "stat": "17 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1743221873878_MVFx8iPSH4QT.jpg",
         "rank": 13,
         "profile": "FIELDING"
