@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-08-05T08:21:35Z",
+  "last_updated": "2026-08-05T13:47:04Z",
   "record": {
     "matches": 114,
     "won": 69,
@@ -152,6 +152,15 @@
       "sub_title": "Batsman",
       "profile_url": "https://cricheroes.in/player-profile/14330086/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1764329240207_gdRkYZGQlbPN.jpg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 1406935,
+      "name": "Kevin",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/1406935/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1771837601777_HZetf7ftz1be.jpg",
       "is_captain": false,
       "is_verified": true
     },
