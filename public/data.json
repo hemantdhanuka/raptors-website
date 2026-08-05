@@ -3,9 +3,9 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-08-05T01:48:34Z",
+  "last_updated": "2026-08-05T08:21:35Z",
   "record": {
-    "matches": 113,
+    "matches": 114,
     "won": 69,
     "lost": 42,
     "draw": 0,
@@ -82,6 +82,15 @@
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1746525709294_WMr19Xta3gYX.jpeg",
       "is_captain": false,
       "is_verified": true
+    },
+    {
+      "player_id": 22015349,
+      "name": "Anurag Singh",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/22015349/stats",
+      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+      "is_captain": false,
+      "is_verified": false
     },
     {
       "player_id": 9519302,
@@ -1968,11 +1977,11 @@
   "stats": [
     {
       "label": "Matches",
-      "value": "113"
+      "value": "114"
     },
     {
       "label": "Upcoming",
-      "value": "0"
+      "value": "1"
     },
     {
       "label": "Won",
