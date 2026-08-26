@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-08-26T06:33:26Z",
+  "last_updated": "2026-08-26T12:34:20Z",
   "record": {
     "matches": 116,
     "won": 71,
@@ -115,7 +115,7 @@
       "name": "Gaurav Kumar",
       "sub_title": "Batsman",
       "profile_url": "https://cricheroes.in/player-profile/1363075/stats",
-      "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1787736231710_EIVbb7WlENRH.jpeg",
       "is_captain": false,
       "is_verified": true
     },
@@ -2152,7 +2152,7 @@
         "player_id": 1363075,
         "player_name": "Gaurav Kumar",
         "stat": "545 runs",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1787736231710_EIVbb7WlENRH.jpeg",
         "rank": 11,
         "profile": "BATTING"
       },
@@ -2634,7 +2634,7 @@
         "player_id": 1363075,
         "player_name": "Gaurav Kumar",
         "stat": "10 wkts",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1787736231710_EIVbb7WlENRH.jpeg",
         "rank": 15,
         "profile": "BOWLING"
       },
@@ -2956,7 +2956,7 @@
         "player_id": 1363075,
         "player_name": "Gaurav Kumar",
         "stat": "22 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/1775154326174_pDCd8RW290q9.jpeg",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/1787736231710_EIVbb7WlENRH.jpeg",
         "rank": 11,
         "profile": "FIELDING"
       },
