@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-09-18T20:12:04Z",
+  "last_updated": "2026-09-19T02:26:48Z",
   "record": {
     "matches": 118,
     "won": 72,
@@ -2055,7 +2055,7 @@
     },
     {
       "label": "Upcoming",
-      "value": "1"
+      "value": "0"
     },
     {
       "label": "Won",
@@ -2083,7 +2083,7 @@
     },
     {
       "label": "Toss Won",
-      "value": "60"
+      "value": "61"
     },
     {
       "label": "Bat First",
@@ -2091,7 +2091,7 @@
     },
     {
       "label": "Field First",
-      "value": "29"
+      "value": "30"
     }
   ],
   "leaderboard": {
@@ -3093,18 +3093,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 37454400,
-        "player_name": "Abhishek Anand",
-        "stat": "2 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=37454400",
-        "rank": 25,
-        "profile": "FIELDING"
-      },
-      {
         "player_id": 17394412,
         "player_name": "Shubham Somani",
         "stat": "2 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/user_profile/1768671824635_7tMofvvRry0G.jpeg",
+        "rank": 25,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 37454400,
+        "player_name": "Abhishek Anand",
+        "stat": "2 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=37454400",
         "rank": 26,
         "profile": "FIELDING"
       },
