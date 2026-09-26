@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-09-25T20:55:31Z",
+  "last_updated": "2026-09-26T02:46:06Z",
   "record": {
     "matches": 119,
     "won": 73,
@@ -2069,7 +2069,7 @@
     },
     {
       "label": "Upcoming",
-      "value": "1"
+      "value": "0"
     },
     {
       "label": "Won",
@@ -2097,7 +2097,7 @@
     },
     {
       "label": "Toss Won",
-      "value": "61"
+      "value": "62"
     },
     {
       "label": "Bat First",
@@ -2105,7 +2105,7 @@
     },
     {
       "label": "Field First",
-      "value": "30"
+      "value": "31"
     }
   ],
   "leaderboard": {
@@ -3115,18 +3115,18 @@
         "profile": "FIELDING"
       },
       {
-        "player_id": 37454400,
-        "player_name": "Abhishek Anand",
-        "stat": "2 dismissals",
-        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=37454400",
-        "rank": 26,
-        "profile": "FIELDING"
-      },
-      {
         "player_id": 15990129,
         "player_name": "Kd",
         "stat": "2 dismissals",
         "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+        "rank": 26,
+        "profile": "FIELDING"
+      },
+      {
+        "player_id": 37454400,
+        "player_name": "Abhishek Anand",
+        "stat": "2 dismissals",
+        "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=37454400",
         "rank": 27,
         "profile": "FIELDING"
       },
