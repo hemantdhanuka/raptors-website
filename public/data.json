@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-10-21T02:41:46Z",
+  "last_updated": "2026-10-21T10:54:09Z",
   "record": {
     "matches": 119,
     "won": 73,
@@ -93,11 +93,29 @@
       "is_verified": true
     },
     {
+      "player_id": 25191386,
+      "name": "Darshan Deshmane",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/25191386/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1701841818374_P9tHbeS770lR.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
       "player_id": 50202330,
       "name": "FI. Shakthi Vel",
       "sub_title": "",
       "profile_url": "https://cricheroes.in/player-profile/50202330/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=50202330",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 793890,
+      "name": "Gagan",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/793890/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1662113145898_ORzBbThztn5R.jpg",
       "is_captain": false,
       "is_verified": true
     },
@@ -134,6 +152,15 @@
       "sub_title": "All-Rounder",
       "profile_url": "https://cricheroes.in/player-profile/14781101/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1716108467882_xlhodlGtHk2x.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 611833,
+      "name": "jatin damani",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/611833/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1776575608260_hjROhw1MkjZY.jpeg",
       "is_captain": false,
       "is_verified": true
     },
