@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-10-28T11:53:16Z",
+  "last_updated": "2026-10-28T17:42:54Z",
   "record": {
     "matches": 120,
     "won": 74,
@@ -336,6 +336,15 @@
       "is_verified": true
     },
     {
+      "player_id": 18675068,
+      "name": "Priyansh Goyal",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/18675068/stats",
+      "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
       "player_id": 48258002,
       "name": "Rahul N",
       "sub_title": "",
@@ -350,6 +359,15 @@
       "sub_title": "",
       "profile_url": "https://cricheroes.in/player-profile/46866640/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=46866640",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 46775587,
+      "name": "Raj",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/46775587/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/default_user_profile_m.png?v=46775587",
       "is_captain": false,
       "is_verified": true
     },
