@@ -3,7 +3,7 @@
   "team_id": "5686590",
   "logo": "https://media.cricheroes.in/team_logo/1730426917926_7UlgiCIixhiZ.jpg",
   "city": "Bengaluru (Bangalore)",
-  "last_updated": "2026-11-11T03:55:59Z",
+  "last_updated": "2026-11-11T13:17:43Z",
   "record": {
     "matches": 121,
     "won": 75,
@@ -82,6 +82,15 @@
       "profile_pic_url": "https://media.cricheroes.in/default/user_profile.png",
       "is_captain": false,
       "is_verified": false
+    },
+    {
+      "player_id": 22705239,
+      "name": "Arjun",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/22705239/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1744304873146_oQLyZPKkRLVw.jpg",
+      "is_captain": false,
+      "is_verified": true
     },
     {
       "player_id": 9519302,
@@ -413,6 +422,15 @@
       "sub_title": "BAT,WK",
       "profile_url": "https://cricheroes.in/player-profile/3760730/stats",
       "profile_pic_url": "https://media.cricheroes.in/user_profile/1793625751517_O9OkPQhsJpqF.jpeg",
+      "is_captain": false,
+      "is_verified": true
+    },
+    {
+      "player_id": 20119617,
+      "name": "Somu",
+      "sub_title": "",
+      "profile_url": "https://cricheroes.in/player-profile/20119617/stats",
+      "profile_pic_url": "https://media.cricheroes.in/user_profile/1766051956212_A8SrsBGcjAFe.jpeg",
       "is_captain": false,
       "is_verified": true
     },
